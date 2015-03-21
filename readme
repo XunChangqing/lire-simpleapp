@@ -1,0 +1,1 @@
+java -cp build/:lib/lire.jar:lib/lucene-core-4.10.2.jar:lib/lucene-queryparser-4.10.2.jar:lib/lucene-analyzers-common-4.10.2.jar net.semanticmetadata.lire.sampleapp.Searcher images/6s.jpg 
